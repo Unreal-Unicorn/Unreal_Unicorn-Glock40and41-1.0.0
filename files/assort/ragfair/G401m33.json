@@ -1,0 +1,10 @@
+{
+	"_id": "G401m33",
+	"_tpl": "G401m33",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
