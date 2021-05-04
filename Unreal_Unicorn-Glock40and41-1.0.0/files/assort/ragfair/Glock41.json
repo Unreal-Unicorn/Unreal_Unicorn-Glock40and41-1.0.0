@@ -1,0 +1,10 @@
+{
+	"_id": "Glock41",
+	"_tpl": "Glock41",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
